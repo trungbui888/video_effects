@@ -2,20 +2,15 @@
   "schemaVersion": 1,
   "effects": [
     {
-      "id": "confetti-burst",
+      "id": "confetti-celebration-success-ms8umyhf",
       "keywords": [
-        "confetti",
-        "celebration",
-        "success",
-        "achievement",
-        "party",
-        "win"
+        "confetti celebration success"
       ],
-      "file": "effects/confetti-burst.mov",
+      "file": "effects/confetti-celebration-success-ms8umyhf.mov",
       "durationSec": 2,
       "width": 640,
       "height": 340,
-      "createdAt": "2026-07-31T11:15:43.997Z",
+      "createdAt": "2026-07-31T11:20:19.652Z",
       "createdBy": "ai"
     }
   ]

@@ -48,6 +48,18 @@
       "height": 340,
       "createdAt": "2026-07-31T11:41:36.638Z",
       "createdBy": "ai"
+    },
+    {
+      "id": "vacuum-sealed-tea-bag-ms8vgtns",
+      "keywords": [
+        "vacuum sealed tea bag"
+      ],
+      "file": "effects/vacuum-sealed-tea-bag-ms8vgtns.mov",
+      "durationSec": 2,
+      "width": 640,
+      "height": 340,
+      "createdAt": "2026-07-31T11:43:38.852Z",
+      "createdBy": "ai"
     }
   ]
 }

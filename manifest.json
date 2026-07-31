@@ -1,4 +1,22 @@
 {
   "schemaVersion": 1,
-  "effects": []
+  "effects": [
+    {
+      "id": "confetti-burst",
+      "keywords": [
+        "confetti",
+        "celebration",
+        "success",
+        "achievement",
+        "party",
+        "win"
+      ],
+      "file": "effects/confetti-burst.mov",
+      "durationSec": 2,
+      "width": 640,
+      "height": 340,
+      "createdAt": "2026-07-31T11:15:43.997Z",
+      "createdBy": "ai"
+    }
+  ]
 }
